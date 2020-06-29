@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Profile/static/css/main.0f16308b.chunk.css",
-    "main.js": "/Profile/static/js/main.f2fcf11e.chunk.js",
-    "main.js.map": "/Profile/static/js/main.f2fcf11e.chunk.js.map",
+    "main.css": "/Profile/static/css/main.332a4a18.chunk.css",
+    "main.js": "/Profile/static/js/main.f71929de.chunk.js",
+    "main.js.map": "/Profile/static/js/main.f71929de.chunk.js.map",
     "runtime-main.js": "/Profile/static/js/runtime-main.6f736da2.js",
     "runtime-main.js.map": "/Profile/static/js/runtime-main.6f736da2.js.map",
     "static/css/2.76053962.chunk.css": "/Profile/static/css/2.76053962.chunk.css",
-    "static/js/2.80a5eba4.chunk.js": "/Profile/static/js/2.80a5eba4.chunk.js",
-    "static/js/2.80a5eba4.chunk.js.map": "/Profile/static/js/2.80a5eba4.chunk.js.map",
+    "static/js/2.3ab30c87.chunk.js": "/Profile/static/js/2.3ab30c87.chunk.js",
+    "static/js/2.3ab30c87.chunk.js.map": "/Profile/static/js/2.3ab30c87.chunk.js.map",
     "index.html": "/Profile/index.html",
-    "precache-manifest.e0a089da07ac6bb09f5991b9c5cd121b.js": "/Profile/precache-manifest.e0a089da07ac6bb09f5991b9c5cd121b.js",
+    "precache-manifest.581402fec82a8d4ace638c4e8b19823c.js": "/Profile/precache-manifest.581402fec82a8d4ace638c4e8b19823c.js",
     "service-worker.js": "/Profile/service-worker.js",
     "static/css/2.76053962.chunk.css.map": "/Profile/static/css/2.76053962.chunk.css.map",
-    "static/css/main.0f16308b.chunk.css.map": "/Profile/static/css/main.0f16308b.chunk.css.map",
-    "static/js/2.80a5eba4.chunk.js.LICENSE.txt": "/Profile/static/js/2.80a5eba4.chunk.js.LICENSE.txt",
+    "static/css/main.332a4a18.chunk.css.map": "/Profile/static/css/main.332a4a18.chunk.css.map",
+    "static/js/2.3ab30c87.chunk.js.LICENSE.txt": "/Profile/static/js/2.3ab30c87.chunk.js.LICENSE.txt",
     "static/media/boxicons.min.css": "/Profile/static/media/boxicons.aeaf4ee6.woff2",
     "static/media/semantic.min.css": "/Profile/static/media/outline-icons.ef60a4f6.woff",
     "static/media/icofont.min.css": "/Profile/static/media/icofont.f6ab04ae.woff"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.6f736da2.js",
     "static/css/2.76053962.chunk.css",
-    "static/js/2.80a5eba4.chunk.js",
-    "static/css/main.0f16308b.chunk.css",
-    "static/js/main.f2fcf11e.chunk.js"
+    "static/js/2.3ab30c87.chunk.js",
+    "static/css/main.332a4a18.chunk.css",
+    "static/js/main.f71929de.chunk.js"
   ]
 }
